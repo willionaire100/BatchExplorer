@@ -73,7 +73,7 @@
     "@batch/ui-service": "^1.0.0"
   },
   "devDependencies": {
-    "batchw-common-config": "^1.0.0",
+    "batchw-test-common-config": "^1.0.0",
     "@types/jest": "^27.0.1",
     "@types/jest-axe": "^3.5.1",
     "@types/node": "20.5.4",

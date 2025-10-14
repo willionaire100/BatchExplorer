@@ -1,5 +1,5 @@
 {
-  "name": "batchw-common-config",
+  "name": "batchw-test-common-config",
   "private": true,
   "version": "1.0.0",
   "description": "Common configuration for Batch UI libraries",

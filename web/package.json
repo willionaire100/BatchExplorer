@@ -62,7 +62,7 @@
   "dependencies": {
     "@azure/bonito-core": "^1.0.0",
     "@azure/bonito-ui": "^1.0.0",
-    "batchw-common-config": "^1.0.0",
+    "batchw-test-common-config": "^1.0.0",
     "@batch/ui-playground": "^1.0.0",
     "@batch/ui-react": "^1.0.0",
     "@batch/ui-service": "^1.0.0",
