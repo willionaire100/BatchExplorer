@@ -67,7 +67,7 @@
     "typed-emitter": "^2.1.0"
   },
   "devDependencies": {
-    "@batch/common-config": "^1.0.0",
+    "batchw-common-config": "^1.0.0",
     "@types/jest": "^27.0.1",
     "@types/node": "20.5.4",
     "jest": "^27.1.0",
